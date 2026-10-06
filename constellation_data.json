@@ -1,0 +1,134 @@
+{
+  "Orion": {
+    "abbreviation": "Ori",
+    "myth": "Orion was a giant huntsman in Greek mythology. Zeus placed him among the stars after his death. The three stars of his belt are among the most recognizable patterns in the night sky.",
+    "look_here": "Look for three bright stars in a straight line (the Belt). The bright orange star Betelgeuse marks his right shoulder; blue-white Rigel marks his left foot.",
+    "season": "Winter (Northern Hemisphere)"
+  },
+  "Ursa Major": {
+    "abbreviation": "UMa",
+    "myth": "Ursa Major is the Great Bear. In Greek myth, Zeus transformed the nymph Callisto into a bear to protect her from Hera's jealousy, then placed her in the sky.",
+    "look_here": "Find the Big Dipper — seven bright stars forming a ladle shape. The two stars at the end of the bowl point toward Polaris, the North Star.",
+    "season": "Year-round (Northern Hemisphere)"
+  },
+  "Ursa Minor": {
+    "abbreviation": "UMi",
+    "myth": "Ursa Minor is the Little Bear. Its most famous star, Polaris, has guided travelers for millennia because it sits nearly directly above Earth's north pole.",
+    "look_here": "Find Polaris at the end of the Little Dipper's handle. It stays nearly fixed while other stars wheel around it.",
+    "season": "Year-round (Northern Hemisphere)"
+  },
+  "Cassiopeia": {
+    "abbreviation": "Cas",
+    "myth": "Cassiopeia was a vain queen in Greek mythology who boasted that she was more beautiful than the sea nymphs. Poseidon punished her by tying her to a throne in the sky, doomed to circle the pole forever.",
+    "look_here": "Look for a distinctive 'W' or 'M' shape of five bright stars. It's on the opposite side of Polaris from the Big Dipper.",
+    "season": "Autumn (Northern Hemisphere)"
+  },
+  "Cygnus": {
+    "abbreviation": "Cyg",
+    "myth": "Cygnus is the Swan. In one myth, Zeus disguised himself as a swan. In another, the musician Orpheus was transformed into a swan after his death and placed among the stars.",
+    "look_here": "Look for the Northern Cross — a large cross shape. The bright star Deneb marks the swan's tail; Albireo marks its beak (a beautiful blue-gold double star).",
+    "season": "Summer (Northern Hemisphere)"
+  },
+  "Lyra": {
+    "abbreviation": "Lyr",
+    "myth": "Lyra is the lyre of Orpheus, the legendary musician whose music could charm stones and soothe wild beasts. After Orpheus died, Zeus placed his lyre in the sky.",
+    "look_here": "Find bright blue-white Vega, one of the brightest stars in the sky. The lyre shape is small and compact near Vega.",
+    "season": "Summer (Northern Hemisphere)"
+  },
+  "Aquila": {
+    "abbreviation": "Aql",
+    "myth": "Aquila is the eagle that carried Zeus's thunderbolts. It also carried Ganymede to Mount Olympus to serve as cupbearer to the gods.",
+    "look_here": "Look for Altair, a bright white star flanked by two dimmer stars (Tarazed and Alshain) — this trio is sometimes called the 'family of three.'",
+    "season": "Summer (Northern Hemisphere)"
+  },
+  "Scorpius": {
+    "abbreviation": "Sco",
+    "myth": "Scorpius is the scorpion that killed Orion the Hunter. The gods placed both in the sky, but set them on opposite sides so they would never fight again.",
+    "look_here": "Look for a curved 'J' shape of bright stars. The red star Antares marks the scorpion's heart. The tail curls toward the south.",
+    "season": "Summer (Southern Hemisphere / low in Northern)"
+  },
+  "Sagittarius": {
+    "abbreviation": "Sgr",
+    "myth": "Sagittarius is the Archer, often depicted as a centaur drawing a bow. The center of our Milky Way galaxy lies in this direction.",
+    "look_here": "Look for the 'Teapot' asterism — eight stars forming a teapot shape. The Milky Way appears to steam from the spout.",
+    "season": "Summer (Northern Hemisphere)"
+  },
+  "Leo": {
+    "abbreviation": "Leo",
+    "myth": "Leo is the Nemean Lion, a beast with an impenetrable hide that Heracles (Hercules) slew as the first of his twelve labors. Zeus placed the lion in the sky to honor the feat.",
+    "look_here": "Look for a backwards question mark (the Sickle) forming the lion's mane. Bright blue-white Regulus marks the lion's heart.",
+    "season": "Spring (Northern Hemisphere)"
+  },
+  "Taurus": {
+    "abbreviation": "Tau",
+    "myth": "Taurus is the bull. Zeus transformed himself into a white bull to carry Europa across the sea. The Pleiades star cluster, within Taurus, are the seven daughters of Atlas.",
+    "look_here": "Look for the V-shaped face of the bull (the Hyades cluster) with bright orange Aldebaran as the eye. The Pleiades (Seven Sisters) are a small, fuzzy cluster nearby.",
+    "season": "Winter (Northern Hemisphere)"
+  },
+  "Gemini": {
+    "abbreviation": "Gem",
+    "myth": "Gemini represents the twins Castor and Pollux. Castor was mortal, Pollux immortal. When Castor died, Pollux begged Zeus to let him share his immortality with his brother.",
+    "look_here": "Look for two bright stars side by side — Castor (white) and Pollux (orange). The rest of the constellation forms two stick figures.",
+    "season": "Winter (Northern Hemisphere)"
+  },
+  "Canis Major": {
+    "abbreviation": "CMa",
+    "myth": "Canis Major is the Greater Dog, one of Orion's hunting dogs. It follows Orion across the sky through the winter months.",
+    "look_here": "Find Sirius, the brightest star in the entire night sky. It's blue-white and twinkles fiercely when low on the horizon.",
+    "season": "Winter (Northern Hemisphere)"
+  },
+  "Perseus": {
+    "abbreviation": "Per",
+    "myth": "Perseus was the hero who slew Medusa and rescued Andromeda. The constellation contains the famous Double Cluster — two dense star clusters visible to the naked eye.",
+    "look_here": "Look for a curved line of stars near Cassiopeia. The Double Cluster sits between Perseus and Cassiopeia — a binocular target.",
+    "season": "Autumn (Northern Hemisphere)"
+  },
+  "Andromeda": {
+    "abbreviation": "And",
+    "myth": "Andromeda was a princess chained to a rock as a sacrifice to a sea monster. Perseus rescued her and married her. The constellation contains the Andromeda Galaxy, the nearest large galaxy to our own.",
+    "look_here": "Follow the line of stars from Cassiopeia's 'W' shape outward. The Andromeda Galaxy appears as a faint, fuzzy smudge — visible to the naked eye in dark skies.",
+    "season": "Autumn (Northern Hemisphere)"
+  },
+  "Pegasus": {
+    "abbreviation": "Peg",
+    "myth": "Pegasus is the winged horse that sprang from the blood of Medusa when Perseus beheaded her. The hero Bellerophon rode Pegasus to defeat the Chimera.",
+    "look_here": "Look for the 'Great Square' — four bright stars forming a large square. It's the body of the horse. The neck and head extend to the upper-left.",
+    "season": "Autumn (Northern Hemisphere)"
+  },
+  "Aries": {
+    "abbreviation": "Ari",
+    "myth": "Aries is the ram whose golden fleece was sought by Jason and the Argonauts. Zeus placed the ram in the sky after it was sacrificed to him.",
+    "look_here": "Look for a small crooked line of three stars. Bright Hamal marks the ram's head. It's a small, faint constellation — not showy, but historically important.",
+    "season": "Autumn (Northern Hemisphere)"
+  },
+  "Boötes": {
+    "abbreviation": "Boo",
+    "myth": "Boötes is the Herdsman, the ploughman who drives the oxen of the Big Dipper around the pole. In one myth, he is Arcas, son of Zeus and Callisto.",
+    "look_here": "Find bright orange Arcturus, the brightest star in the northern sky. Follow the curve of the Big Dipper's handle to 'arc to Arcturus.' Boötes forms a kite or ice-cream-cone shape around it.",
+    "season": "Spring/Summer (Northern Hemisphere)"
+  },
+  "Corona Borealis": {
+    "abbreviation": "CrB",
+    "myth": "Corona Borealis is the Northern Crown — the wedding crown given by Dionysus to Ariadne, daughter of King Minos of Crete, after she helped Theseus escape the labyrinth.",
+    "look_here": "Look for a small semicircle of stars forming a crown shape. It sits just east of Boötes. The brightest star, Alphecca, marks the jewel in the crown.",
+    "season": "Summer (Northern Hemisphere)"
+  },
+  "Canes Venatici": {
+    "abbreviation": "CVn",
+    "myth": "Canes Venatici represents the Hunting Dogs held on a leash by Boötes the Herdsman. They are named Asterion and Chara and help drive the bears around the pole.",
+    "look_here": "Look between the handle of the Big Dipper and Boötes. It contains the Whirlpool Galaxy (M51), a beautiful face-on spiral visible in small telescopes.",
+    "season": "Spring (Northern Hemisphere)"
+  },
+  "Hercules": {
+    "abbreviation": "Her",
+    "myth": "Hercules (Heracles) was the greatest of Greek heroes, famous for completing twelve impossible labors. After his death, Zeus raised him to the stars as a reward for his suffering and strength.",
+    "look_here": "Look for the 'Keystone' — four stars forming a trapezoid at the center. This is Hercules's body. Inside the Keystone is M13, the Great Globular Cluster, visible in binoculars as a fuzzy ball of 300,000 stars.",
+    "season": "Summer (Northern Hemisphere)"
+  },
+  "Virgo": {
+    "abbreviation": "Vir",
+    "myth": "Virgo is the maiden, often identified as Astraea, goddess of justice, who fled the Earth in disgust at human wickedness and was placed among the stars. She holds a sheaf of wheat marked by the bright star Spica.",
+    "look_here": "Find bright blue-white Spica, then trace the rest of the constellation sprawling to the north and west. The Virgo Cluster of galaxies lies just north of the bowl of Virgo.",
+    "season": "Spring (Northern Hemisphere)"
+  }
+}

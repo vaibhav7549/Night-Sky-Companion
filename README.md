@@ -22,6 +22,8 @@ Night Sky Companion tells you what's above your head **right now** — constella
 
 No internet connection required. No API keys. No data leaves your device.
 
+![Night Sky Companion](screenshots/hero.png)
+
 | Feature | Description |
 |---|---|
 | 🔭 **Offline Sky Scan** | Computes visible constellations from your lat/lon and the current time |
@@ -30,19 +32,6 @@ No internet connection required. No API keys. No data leaves your device.
 | 🔴 **Red-Light Mode** | Scotopic red palette preserves your night vision |
 | 📴 **Pocket Mode** | Tells you to put your phone down and look up |
 | 📔 **Sky Journal** | Saves your observing sessions locally |
-
----
-
-## 📸 Screenshots
-
-### Tonight's Sky
-![Scan results](screenshots/02-scan-results.png)
-
-### Red-Light Night Vision Mode
-![Red light mode](screenshots/03-red-light.png)
-
-### Sky Journal
-![Journal](screenshots/04-journal.png)
 
 ---
 
@@ -56,21 +45,15 @@ No internet connection required. No API keys. No data leaves your device.
 ### Install
 
 ```bash
-# Clone
-git clone https://github.com/YOUR_USERNAME/night-sky-companion.git
-cd night-sky-companion
+git clone https://github.com/vaibhav7549/Night-Sky-Companion.git
+cd Night-Sky-Companion
 
-# Create virtual environment
 python -m venv .venv
 
-# Activate it
 # Windows (Git Bash):
 source .venv/Scripts/activate
 # macOS / Linux:
 source .venv/bin/activate
 
-# Install Python dependencies
 pip install -r requirements.txt
-
-# Pull the AI model (one-time, ~1.6 GB)
 ollama pull gemma2:2b
